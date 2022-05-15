@@ -57,3 +57,16 @@ main{
     margin-bottom: 3vh;
     margin-left: 20vw;
 }
+.introductioned{
+    width: 60vw;
+    height: 40vh;
+}
+footer{
+    width: 100vw;
+    height: 5vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
