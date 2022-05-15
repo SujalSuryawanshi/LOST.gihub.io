@@ -39,12 +39,15 @@ h1{
 }
 @media screen and (max-width:650px) {
     ul{
-        font-size: 3vh;
+        font-size: 5vh;
     }
     header{
-        height: 10vh;
+        height: 13vh;
     }
     nav ul a{
         margin-left: 2vw;
+    }
+    h1{
+        font-size: 5vh;
     }
 }
