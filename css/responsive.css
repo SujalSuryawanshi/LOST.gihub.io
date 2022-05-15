@@ -36,6 +36,15 @@ h1{
     border-radius: 20px;
     background-color: rgb(59, 216, 19); 
 }
+footer{
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 }
 @media screen and (max-width:650px) {
     ul{
