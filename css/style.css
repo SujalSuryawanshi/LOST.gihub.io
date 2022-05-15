@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/seamless-snow-winter-background-white-clean-110454218.jpg');
+    background-attachment: fixed;
+    background-size: 100vw 100vh;
+}
+header{
+    width: 100vw;
+    height: 17vh;
+    background-image: url('https://thumbs.dreamstime.com/b/heavy-snow-black-snowfall-background-easily-add-over-other-footage-photos-removing-dark-areas-your-video-48795616.jpg');
+    background-size: 100vw 20vh;
+    background-repeat: no-repeat;
+}
+ul{
+    display: flex;
+    font-size: 30px;
+}
+li a{
+    text-decoration: none;
+    margin-left: 12vw;
+    margin-bottom: 5vh;
+    color: white;
+    font-family: 'Water Brush', cursive;
+}
+li{
+    margin-top: 5vh;
+    list-style: none;
+}
+.container{
+    margin: 4vh 10vw;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+main{
+    padding: 10px;
+}
+.MaIn1A{
+    font-family: 'Water Brush', cursive;
+    font-size: 40px;
+    margin: 4vh 25vw 4vh 25vw;  
+}
+.MaIn2A{
+    font-family: 'Water Brush', cursive;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+    margin-left: 40vw;
+}
+.MaIn3A{
+    font-family: 'Water Brush', cursive;    
+}
+.MaIn4A{
+    font-family: 'Water Brush', cursive;    
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+    margin-left: 20vw;
+}

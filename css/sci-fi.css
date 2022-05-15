@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('https://www.timeforkids.com/wp-content/uploads/2021/01/K1_CMS_0129_1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+header{
+    width: 100vw;
+    height: 8vw;
+    background-image: url('shutterstock-223350181.webp');
+}
+ul{
+    display: flex;
+    font-size: 30px;
+}
+li a{
+    text-decoration: none;
+    margin-left: 12vw;
+    margin-bottom: 5vh;
+    color: white;
+    font-family: 'Water Brush', cursive;
+}
+li{
+    margin-top: 5vh;
+    list-style: none;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Water Brush', cursive;
+    font-size: 5vh;
+    margin: 3vh;  
+}
+.Chapter1{
+    font-family: 'Water Brush', cursive;
+    margin: 3vh;
+}
+
+#more1{
+    display: none;
+}
+#gifed {
+    display: none;
+}
+#myBtn1{
+    margin: 1vh 30% 2vh 70%;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 20px;
+    font-weight: 800;
+    color: azure;
+    background-color: rgb(59, 216, 19); 
+}
+.ChApTeR1{
+    border: 5px solid rgb(233, 6, 6);
+    width: 70vw;
+    color: black;
+    font-family: 'Water Brush', cursive;
+    background-color: white;
+    border-radius: 40px;
+    margin: 4vh 3vw 0vh 15vw;
+}
+.gifs{
+    width: 50vw;
+}
+p{
+    padding: 1vw;
+}

@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('https://th-thumbnailer.cdn-si-edu.com/vSnitgUqCQCRSx7mkHZtHZHry4U=/1072x720/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/04/8e/048ed839-a581-48af-a0ae-fac6fec00948/gettyimages-168346757_web.jpg');
+    background-attachment: fixed;
+    background-size: 100vw 100vh;
+}
+header{
+    width: 100vw;
+    height: 8vw;
+    background-image: url('bench.jpg');
+    background-size: 100vw 8vw;
+    background-repeat: no-repeat;
+}
+ul{
+    display: flex;
+    font-size: 30px;
+}
+li a{
+    text-decoration: none;
+    margin-left: 12vw;
+    margin-bottom: 5vh;
+    color: white;
+    font-family: 'Water Brush', cursive;
+}
+li{
+    margin-top: 5vh;
+    list-style: none;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Water Brush', cursive;
+    font-size: 5vh;  
+    display: inline-block;
+    padding: 3vh;
+}
+.Chapter1{
+    font-family: 'Water Brush', cursive;
+    margin: 3vh;  
+    border-radius: 30px;  
+}
+#more1 {
+    display: none;
+}
+#myBtn1{
+    margin: 1vh 30% 2vh 70%;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 20px;
+    font-weight: 800;
+    color: azure;
+    background-color: rgb(59, 216, 19); 
+}
+.ChApTeR1{
+    width: 70vw; 
+    color: black;
+    font-family: 'Water Brush', cursive;
+    background-color: white;
+    border-radius: 40px;
+    border: 5px solid rgb(233, 6, 6);
+    margin: 4vh 3vw 0vh 15vw;
+}
+.gifs3{
+    width: 40vw;
+}
+p{
+    padding: 1vw;
+}

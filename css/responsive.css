@@ -1,0 +1,50 @@
+@media screen and (max-width:1450px) {
+nav ul a{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 6vw;
+}
+nav ul{
+    height: 34px;
+    justify-content: center;
+}
+header{
+    height: 17vh;
+    justify-content: center;
+    overflow: hidden;
+    background-size: 100vw 27vw;
+    background-repeat: no-repeat;
+}
+li a{
+    margin-left: 8vw;
+    margin-bottom: 3vh;
+}
+.MaIn1A{
+    margin: auto auto auto auto;
+    font-size: 3.3vh;
+}
+h1{
+    font-size: 4vh;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+#myBtn1{
+    margin: 1vh 0% 2vh 62%;
+    width: 20vw;
+    height: 6vh;
+    border-radius: 20px;
+    background-color: rgb(59, 216, 19); 
+}
+}
+@media screen and (max-width:650px) {
+    ul{
+        font-size: 3vh;
+    }
+    header{
+        height: 10vh;
+    }
+    nav ul a{
+        margin-left: 2vw;
+    }
+}
