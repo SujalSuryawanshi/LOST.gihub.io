@@ -13,3 +13,13 @@ function readMoreChapter1() {
       moreText.style.display = "inline";
   }
 }
+const countEl = document.getElementById("count");
+      countvisits();
+
+      function countvisits() {
+        fetch('https://api.countapi.xyz/update/LOST/wow/?amount=1')
+          .then((res) => res.json())
+          .then((res) => {
+            countEl.innerHTML = res.value;
+          });
+      }
